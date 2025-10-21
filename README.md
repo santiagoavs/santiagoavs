@@ -12,11 +12,11 @@
 <img src="resources/html.png" width="40" height="40" alt="HTML"><br>
 <img src="resources/css.png" width="40" height="40" alt="CSS">
 <img src="resources/kotlin.png" width="40" height="40" alt="Kotlin">
-<img src="resources/wordpress.png" width="40" height="40" alt="WordPress">
+<img src="resources/wordpres.png" width="40" height="40" alt="WordPress">
 <img src="resources/C.png" width="40" height="40" alt="C">
 <img src="resources/C++.png" width="40" height="40" alt="C++">
 <img src="resources/CSharp.png" width="40" height="40" alt="C#">
-<img src="resources/git.png" width="40" height="40" alt="Git">
+<img src="resources/gi.png" width="40" height="40" alt="Git">
 <img src="resources/photoshop.png" width="40" height="40" alt="Photoshop">
 <img src="resources/arch.png" width="40" height="40" alt="Arch Linux">
 </p>
