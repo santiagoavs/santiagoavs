@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="resources/banner.svg" alt="Banner" width="100%">
+</p>
+
 ## Tecnologías
 
 <p align="center">
