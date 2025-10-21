@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/banner.svg" alt="Banner" width="100%">
+  <img src="https://banner-app-seven.vercel.app" alt="Banner" width="100%">
 </p>
 
 ## Tecnologías
