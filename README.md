@@ -1,4 +1,4 @@
-## Mi stack de tecnologías
+## Tecnologías
 
 <p align='center'>
 <img src="resources/react.png" width="40" height="40"></a>
@@ -15,7 +15,7 @@
 <img src="resources/wordpress.png" width="40" height="40">
 <img src="resources/C.png" width="40" height="40">
 <img src="resources/C++.png" width="40" height="40">
-<img src="resources/C#.png" width="40" height="40">
+<img src="resources/CSharp.png" width="40" height="40">
 <img src="resources/git.png" width="40" height="40">
 <img src="resources/photoshop.png" width="40" height="40">
 <img src="resources/arch.png" width="40" height="40">
