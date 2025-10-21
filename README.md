@@ -1,16 +1,23 @@
-## Hi there 👋
+## Mi stack de tecnologías
 
-<!--
-**santiagoavs/santiagoavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<img src="resources/react.png" width="40" height="40"></a>
+<img src="resources/node.png" width="40" height="40"></a>
+<img src="resources/mongodb.png" width="40" height="40"></a>
+<img src="resources/javascript.png" width="40" height="40"><br>
+<img src="resources/java.png" width="40" height="40">
+<img src="resources/oracle.png" width="40" height="40">
+<img src="resources/firebase.svg" width="40" height="40"></a>
+<img src="resources/sql-server.png" width="40" height="40"></a>
+<img src="resources/html.png" width="40" height="40"></a>
+<img src="resources/css.png" width="40" height="40"></a>
+<img src="resources/kotlin.png" width="40" height="40">
+<img src="resources/wordpress.png" width="40" height="40">
+<img src="resources/C.png" width="40" height="40">
+<img src="resources/C++.png" width="40" height="40">
+<img src="resources/C#.png" width="40" height="40">
+<img src="resources/git.png" width="40" height="40">
+<img src="resources/photoshop.png" width="40" height="40">
+<img src="resources/arch.png" width="40" height="40">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
