@@ -42,7 +42,7 @@
 
 ---
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
       <a href="https://open.spotify.com/user/9w464ttuxiyq36ius0lka13sm">
