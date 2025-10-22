@@ -24,3 +24,27 @@
 <img src="resources/photoshop.png" width="40" height="40" alt="Photoshop">
 <img src="resources/arch.png" width="40" height="40" alt="Arch Linux">
 </p>
+
+## Portafolio
+
+### 🌐 [Diambars Sublim]
+> Plataforma de e-Commerce para la compra de productos personalizables a base de sublimación. Frontend completamente desarrollado por mí.
+
+<div align="center">
+  <img src="resources/project-preview.png" alt="Project Preview" width="600">
+</div>
+
+**Link:**
+- [Página Oficial](https://diambars-sublim.vercel.app)
+
+**Construido con:** React • Node.js • MongoDB • CSS
+
+---
+
+<div align="left">
+  <a href="https://open.spotify.com/user/9w464ttuxiyq36ius0lka13sm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9w464ttuxiyq36ius0lka13sm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
