@@ -34,12 +34,12 @@
   <img src="resources/project-preview.png" alt="Project Preview" width="600">
   
   <p>
-    <strong>Link:</strong><br>
-    <a href="https://diambars-sublim.vercel.app">Página Oficial</a>
+    <strong>Link:</strong>
+    <a href="https://diambars-sublim.vercel.app">Página oficial</a>
   </p>
-  
-  <p><strong>Construido con:</strong> React • Node.js • MongoDB • CSS</p>
 </div>
+
+**Construido con:** React • Node.js • MongoDB • CSS
 
 ---
 
