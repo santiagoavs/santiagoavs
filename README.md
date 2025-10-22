@@ -46,7 +46,7 @@
   <a href="https://open.spotify.com/user/9w464ttuxiyq36ius0lka13sm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=9w464ttuxiyq36ius0lka13sm&count=5" alt="Spotify recently played" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoavs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoavs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" align="top" />
 </div>
 
 ###
